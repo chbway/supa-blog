@@ -1,7 +1,6 @@
 import { mainFooterConfig } from "@/config/main";
 import Link from "next/link";
 import { v4 } from "uuid";
-import MainNewsletter from "./main-newsletter";
 
 const MainFooter = () => {
   return (
@@ -93,7 +92,7 @@ const MainFooter = () => {
               </div>
             </div>
           </div>
-          <MainNewsletter />
+          
         </div>
         <div className="mt-16 border-t border-gray-900/10 pt-8 sm:mt-20 md:flex md:items-center md:justify-between lg:mt-24">
           <div className="flex space-x-6 md:order-2">

@@ -77,7 +77,7 @@ const LoginSection: React.FC<LoginSectionProps> = ({ setOpen }) => {
     <>
       <div className="mx-auto w-full justify-center rounded-md border border-black/5 bg-gray-50 align-middle shadow-md">
         <div className="flex flex-col items-center justify-center space-y-3 border-b px-4 py-6 pt-8 text-center">
-          <a href="https://ub.cafe">
+          <a href="">
             <Image
               src="/images/logo.png"
               alt="Logo"

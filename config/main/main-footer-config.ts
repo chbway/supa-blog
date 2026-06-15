@@ -40,18 +40,13 @@ const mainFooterConfig: FooterType = {
       icon: FacebookIcon,
     },
     {
-      name: "Github",
-      url: "https://github.com/timtbdev",
-      icon: GithubIcon,
-    },
-    {
       name: "Instagram",
       url: "https://instagram.com",
       icon: InstagramIcon,
     },
     {
       name: "Twitter",
-      url: "https://twitter.com/timtbdev",
+      url: "https://twitter.com/",
       icon: TwitterIcon,
     },
     {
@@ -70,7 +65,7 @@ const mainFooterConfig: FooterType = {
       slug: "/policy",
     },
   ],
-  copyright: "© 2023 Fullstack Blogging App. All rights reserved.",
+  copyright: "© 2026 annahub. All rights reserved.",
 };
 
 export default mainFooterConfig;
